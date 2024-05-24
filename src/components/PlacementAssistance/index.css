@@ -1,0 +1,20 @@
+/* src/components/PlacementAssistance.css */
+.pa-section {
+    background-color: #ffefef;
+    padding: 50px 0;
+    text-align: left; 
+  }
+  
+  .pa-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #183b56;
+    padding: 20px;
+  }
+  
+  .pa-content {
+    color: #5a7184;
+    font-size: 16px;
+    padding: 20px;
+  }
+  

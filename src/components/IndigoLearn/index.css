@@ -1,0 +1,27 @@
+/* src/components/IndigoLearn.css */
+.il-section {
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 50px 0;
+  }
+  .il-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .il-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    text-align: center;
+  }
+  .il-form-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+  }
+  

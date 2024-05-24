@@ -1,0 +1,61 @@
+.ba-section {
+    background-color: #f0f8ff;
+    width:100vw;
+    background-size: cover;
+    padding: 50px 0;
+  }
+  
+  .ba-left-half {
+    padding: 0 20px;
+  }
+  
+  .ba-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #183b56;
+  }
+  
+  .ba-paragraph {
+    font-size: 16px;
+    color: #5a7184;
+    margin-bottom: 20px;
+  }
+  
+  .ba-box {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .ba-box-heading {
+    font-size: 18px;
+    font-weight: bold;
+    color: #183b56;
+  }
+  
+  .ba-box-price {
+    font-size: 14px;
+    color: #5a7184;
+  }
+  
+  .ba-logo {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .ba-right-half {
+    text-align: center;
+  }
+  
+  .ba-form-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #183b56;
+    margin-bottom: 20px;
+  }
+  
+  .ba-submit-button {
+    margin-top: 20px;
+  }
+  
