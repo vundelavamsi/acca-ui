@@ -1,0 +1,38 @@
+.header {
+    background-color: #007bff;
+    padding: 15px 0;
+  }
+  
+  .nav-links {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-link {
+    margin: 0 10px;
+    color: #ffffff;
+  }
+  
+  .nav-link:hover {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .login-signup {
+    display: flex;
+    align-items: center;
+  }
+  
+  .login-signup button {
+    margin-left: 10px;
+    background-color: #ffffff;
+    color: #007bff;
+    border: none;
+    padding: 5px 10px;
+  }
+  
+  .logo {
+    width: 30px;
+    height: auto;
+  }
+  
